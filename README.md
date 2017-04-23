@@ -1,2 +1,2 @@
-# qifan94.github.io
+# Qifan94.github.io
 Qifan's blog
